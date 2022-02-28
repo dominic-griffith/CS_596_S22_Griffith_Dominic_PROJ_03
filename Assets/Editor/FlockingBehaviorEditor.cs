@@ -9,11 +9,11 @@ using UnityEditor;
 public class FlockingBehaviorEditor : Editor
 {
 
-
+     
     bool showLazy = false;
     bool showCircleTree = false;
     bool showFollowLeader = false;
-
+     
 
     public override void OnInspectorGUI()
     {
